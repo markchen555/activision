@@ -110,7 +110,6 @@ iframe {
 
 .col-6 {
   width: 50%;
-
   box-sizing: border-box;
   padding-left: 20px;
   padding-right: 20px;
@@ -125,6 +124,7 @@ iframe {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
   }
 }
 
@@ -142,6 +142,7 @@ iframe {
     bottom: 100px;
     left: 50%;
     transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
   }
 
   .row {
@@ -192,6 +193,7 @@ iframe {
     bottom: 100px;
     left: 50%;
     transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
   }
 
   .text-section {
@@ -229,6 +231,7 @@ iframe {
     bottom: 100px;
     left: 50%;
     transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
   }
 
   .text-section {
