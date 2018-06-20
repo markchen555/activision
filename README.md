@@ -13,4 +13,4 @@ If you are using Visual Studio Code:
 
 #### Creater
 
-* Mark Chen# activision
+* Mark Chen
